@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/VedantChopde11/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0741-cherry-pickup](https://github.com/VedantChopde11/LeetCode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/VedantChopde11/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VedantChopde11/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -29,10 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/VedantChopde11/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0741-cherry-pickup](https://github.com/VedantChopde11/LeetCode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/VedantChopde11/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 ## Sorting
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VedantChopde11/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/VedantChopde11/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/VedantChopde11/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
