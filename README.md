@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/VedantChopde11/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0741-cherry-pickup](https://github.com/VedantChopde11/LeetCode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/VedantChopde11/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VedantChopde11/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VedantChopde11/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VedantChopde11/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0741-cherry-pickup](https://github.com/VedantChopde11/LeetCode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/VedantChopde11/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VedantChopde11/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
@@ -67,4 +70,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VedantChopde11/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VedantChopde11/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
