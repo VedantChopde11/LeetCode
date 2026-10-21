@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/VedantChopde11/LeetCode/tree/master/3886-sum-of-sortable-integers) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/VedantChopde11/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
