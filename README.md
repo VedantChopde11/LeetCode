@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/VedantChopde11/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VedantChopde11/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VedantChopde11/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0741-cherry-pickup](https://github.com/VedantChopde11/LeetCode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/VedantChopde11/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/VedantChopde11/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VedantChopde11/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VedantChopde11/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VedantChopde11/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VedantChopde11/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VedantChopde11/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VedantChopde11/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VedantChopde11/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/VedantChopde11/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VedantChopde11/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
